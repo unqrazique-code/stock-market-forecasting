@@ -70,5 +70,3 @@ stock-market-forecasting/
 ├── requirements.txt
 └── README.md
 
-## Author
-Made with passion for Data Science & Deep Learning
