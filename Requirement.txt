@@ -6,3 +6,5 @@ tensorflow
 keras
 yfinance
 plotly
+matplotlib
+seaborn
