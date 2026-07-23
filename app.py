@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 import yfinance as yf
 from tensorflow.keras.models import load_model
 
-model = load_model('lstm_model.keras')
+model = load_model('lstm_model.h5')
 scaler = pickle.load(open('scaler.pkl', 'rb'))
 
 st.title("Stock Market Trend Analysis & Forecasting")
