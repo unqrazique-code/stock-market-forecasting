@@ -67,7 +67,7 @@ Stock markets are highly volatile and complex. This project builds a system to a
    streamlit run app.py
 
 ## Project Structure
-stock-market-forecasting/
+stock-market-forecasting
 ├── app.py
 ├── lstm_model.keras
 ├── scaler.pkl
