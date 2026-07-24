@@ -4,8 +4,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![yfinance](https://img.shields.io/badge/yfinance-Real%20Time%20Data-green)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://stock-market-forecasting-8f.streamlit.app/)
 
 A complete end-to-end Deep Learning project to analyze and forecast stock market price trends using LSTM neural networks and real time data from Yahoo Finance.
+
+##  Live Demo
+ **[Try the app here](https://stock-market-forecasting-8f.streamlit.app/)**
 
 ## Problem Statement
 Stock markets are highly volatile and complex. This project builds a system to analyze historical stock price patterns and forecast future trends using Long Short-Term Memory (LSTM) deep learning models.
@@ -69,4 +73,5 @@ stock-market-forecasting/
 ├── scaler.pkl
 ├── requirements.txt
 └── README.md
+
 
